@@ -1,0 +1,1103 @@
+Source Text (lang=en-US)
+Duel
+Display Name
+Current Season
+Previous Season
+Ends in {0}d, {1}h and {2}m
+{0}d, {1}h, {2}m
+{0}h, {1}m, {2}s
+Cancel
+
+Victory
+Defeated
+You take Round {0}
+You lose Round {0}
+Waiting for opponent to join..
+Waiting for your opponent to join
+Challenger Incoming!
+Looking for opponent..
+Blaston!
+Round:
+Start Round
+Leave
+Rematch?
+Forfeit
+Do you want to forfeit the duel?
+You can't forfeit a ranked duel.
+Quit Game?
+Do you want to quit the game?
+
+Home
+Ranking
+Loadout
+Shop
+News
+Settings
+Ok
+
+Time out in:
+Your League
+Rank:
+Error
+Pausing, leaving the guardian or pressing the power button forfeits the round
+Something went wrong..
+Claim Reward!
+Max
+Account
+Controls
+Report Issue
+Reported ID:
+Describe the issue
+Email for responses (Optional)
+Enter text here...
+Send report
+Close
+Continue
+Report sent! Thank you for helping us improve Blaston!
+Duel
+What type of issue was there in the Duel?
+Bug
+Player name
+Gestures
+Cheating
+Enter issue description
+Enter email address
+Misc
+Edit Loadout
+Equip
+Select which to replace
+s
+Language
+Master
+Music
+Effects
+Mute
+Voice
+Haptic
+Open Menu
+Grab
+Fire / Select
+Select
+Left Controller
+Right Controller
+{0} is not a valid arena code
+No arena with code {0} found
+
+This arena is full
+Select an option:
+Spectate
+Close this popup with the Context button {0}
+Exit
+Change seat views:
+Arena Code
+Enter arena code
+Give this code to your friend:
+Not Owned
+Average Spawn Time
+Create
+Join
+Friendly Duel
+Friendly Duel
+An incident occurred that prevented you from joining this Duel.
+As you level up and purchase more weapons, they will be listed here.
+"When you purchase more skins
+they will be listed here."
+You own everything! Attack the League rankings.
+Premium Currency
+
+Owned
+Your Loadout
+Equipped
+Locked
+Blasts
+Creds
+Blasts & Creds
+Skins
+Buy
+Information
+Purchasing..
+
+Banner
+Podium
+Avatar
+Aranex Arrival
+Canix Arrival
+Layman
+Cetox Arrival
+Dracx Arrival
+Felidax Arrival
+Lyxx Arrival
+Squillax Arrival
+Bullseye
+TriTip
+Hex Mystery
+Hexagon
+Sharp Striper
+Extreme Canix
+Extreme Cetox
+Death Awaits
+Supernova
+Deaths Grip
+Heartbreaker
+Sounding Off
+Shooting Star
+Scrofax Arrival
+Krysogenic
+
+Make no mistake, this one's dangerous.
+Are you a Canix fan? You deserve a banner!
+Hey, gotta start somewhere right?
+Like a Ninja, ready to make a move.
+Check out that awesome spikey hairdo!
+Can't get enough of Felidax? This banner's for you!
+Be careful, no one messes with Lyxx.
+No use hiding, Squillax sees it all.
+Keep an eye on the target.
+Impress your friends with this cool scifi design!
+Is it the number eight or two hexagons? No one knows.
+Impress with the Hex
+A classy design, fit for all the pro duelers out there.
+You got your hands on the big guns, huh?
+Death never looked so adorable.
+Time to rip into the competition.
+The pattern for the ponytail ninja.
+The pattern for the valiant knight
+A love hate relationship.
+Blue sky, green sea.
+Make a wish.
+Many horns make light work.
+Time to make some snow angels.
+
+New Blood
+Punk Metal
+Rough Wood
+Polished Wood
+Pro Sport
+Skull Punk
+Dark Star
+Swift Phantom
+Tech Sport
+Robotic Love
+Hog Strong
+Cold Embrace
+
+Basic metal podium.
+Just your average everyday punk inspired podium.
+Channel that warrior spirit with this Sumo inspired look.
+Feel like a pro with this shiny and polished Podium.
+Win the game with the new anti-slip technology!
+For the hardcore Lyxx fans out there.
+Blaston All-Star!
+A menacing look to intimidate your foes.
+Cutting edge technology.
+Display your mechanized devotion.
+Mess with the hog, you get the horns.
+Cryogenic enhancements.
+
+Taurex
+Squillax
+Felidax
+Canix
+Lyxx
+Dracx
+Aranex
+Cetox
+Scrofax
+Krysox
+
+Better think twice, Felidax is here to win!
+Canix is a gladiator with a heart of gold and the mohawk to back it up.
+Many duelers have fallen before the menace that is Lyxx.
+Keep your eyes peeled or Cetox will make you regret it.
+Dracx loves to blow enemies into smithereens. Watch out or you will be next!
+Aranex has been wandering the world, in search for the next challenge.
+Brace yourself, Squillax is joining the fray.
+Look at those horns! Taurex means business.
+With an aura of awesomeness and some nasty looking tusks, Scrofax has arrived!
+Stay frosty or Krysox might bust you to bits!
+
+Duel options
+Bot rewards on/off
+Bots on/off
+Training mode
+Super easy
+Easy
+Normal
+Hard
+Super hard
+11
+
+
+
+Bronze
+Silver
+Gold
+Platinum
+Diamond
+Champion
+Master
+Grandmaster
+Elite
+Legendary
+Overlord
+LEAGUES
+
+Unlocked at level {0}
+Wildcat
+Hammer
+Viper
+Nova
+Lance
+Cortex Shield
+Bunker Barrier
+Hammer Nade
+Viper Ellipse
+Hammer Ellipse
+Lance Rapide
+Aegis Shield
+Nova Nade
+Raptor Ellipse
+Majestic
+Lance Nade
+Majestic Hurricane
+Avalanche Nade
+Majestic Nade
+Raptor
+Super Majestic
+Quantum Nade
+Nova Hurricane
+Hurricane
+Quicksilver
+FrostByte
+
+A rapid-fire, high-ammo weapon, good for keeping your opponent busy.
+Fires a veritable wall of low-damage, hard-to-dodge bullets. Great for taking down defenses.
+A powerful and accurate weapon. Low ammo and rate of fire, so better make each shot count!
+Launches a large, slow-moving and devastating Orb. Excellent for forcing your opponent to reposition or to use defensively.
+Generates a steady, damage over time Ion Beam which you can use to box in your opponent.
+A shield that will block incoming bullets and Ion Beams, but it won't last forever.
+Generates a Defmesh. Use this to block Bullets and Ion Beams, but take care of the collision points!
+A high skill grenade which can wreak havoc if timed right. Pull the trigger to start the countdown!
+This Viper variant can curve the bullets around defenses. The curve is determined by your arm rotation before the trigger pull.
+This Hammer variant can curve the bullets around defenses. The curve is determined by your arm rotation before the trigger pull.
+This variant of the Lance couples high ammo with a faster rate of fire.
+This grenade generates multiple Beam Cage explosions. Pull the trigger to start the countdown!
+This grenade generates an Ion Beam aiming towards the opponent. Pull the trigger to start the countdown!
+A grenade that explodes into a static Beam Cage. Great for blocking access to weapons or movement!
+A quick-spawning weapon that ensures you'll always have something to shoot! Can be used defensively, try shooting down bullets!
+Lobs a massive Beam Cage which can be great for forcing your opponent to reposition.
+This shield has a fast respawn rate but low durability. The perfect quick counter to Bullets, Beams and Orbs.
+Launches a large and slow moving Beam Cage, your opponent will want to avoid this one!
+This Raptor variant can curve the bullets around defenses. The curve is determined by your arm rotation before the trigger pull
+An easy-to-use grenade which generates a targeted Orb, guaranteed to make your opponent feel uneasy. Pull the trigger to start the countdown!
+A launcher which lobs multiple Orbs at your opponent. Devastating when used with skill!
+A launcher which lobs multiple bullets at your opponent. Terror from above!
+Hold onto the Quicksilver to speed up your shots. Keep it in hand until its gone otherwise you'll take a hit.
+Damaging is secondary, with a skilfully placed toss to obscure the vision of your opponent you could change the outcome of every round.
+
+Small
+Medium
+Large
+Massive
+Small
+Medium
+Large
+Fast
+Average
+Slow
+N/A
+Static
+Slow
+Medium
+Fast
+X-Large
+
+Bullet
+Defmesh
+Beam Cage
+Ion Beam
+Orb
+Bullet
+Ion Beam
+Tether
+Throw
+Beam Cage
+Damage
+Damage/Sec
+Collision
+Hit Points
+Duration
+Speed
+Count
+Delay
+Size
+Radius
+Reload
+Ammo
+Fuse
+Range
+Boost
+
+Welcome
+Welcome to Blaston!\nReady to start the Tutorial?
+Start
+Squeeze your right hand.
+Squeeze your left hand.
+
+Squeeze
+Squeeze your controller's grip to grab and hold onto objects.
+Now squeeze your right hand.
+Now squeeze your left hand.
+
+Grab
+To hold a gun, keep squeezing your controller.
+Great!\n\nKeep holding onto it.
+Reach out your hand to this Raptor.
+Squeeze to grab and hold.
+
+Press the trigger.
+Press the trigger.
+Fire
+Fire with the trigger button.\n\nThe number of remaining rounds is shown on the gun.
+Great!\n\nNow fire more bullets.
+
+Drop this.
+Drop your weapon
+Empty weapons must be discarded\nbefore you can pick up a new one.
+\nWell done! Let's move on.
+
+Win this Duel 1/2
+This opponent won't attack.\nVarious weapons will spawn around you,\n use them to win.
+Great!
+
+Win this Duel 2/2
+Let's increase the difficulty.\nNow your opponent will dodge and fire back.
+Well done!
+
+Real Duel
+You're now ready for a real duel.
+\nYou have 2 minutes to win!
+You have won round {0}!
+You lost round {0}, but don't worry!
+\nDuels are played best of 3 rounds.
+\nGood luck with round {0}!
+You were defeated, but that's OK.\nTry again, you'll soon get the hang of it!
+
+Choose a Display Name
+You Are Ready
+It's time to pick your Blaston name.
+Error Code:
+You won't be able to change it later.
+Congratulations!\nYou have mastered the basics of Blaston.
+
+Not sent
+Changing
+Changed
+We have encountered a problem
+Name taken
+Hey! No profanity!
+Invalid input
+
+Welcome to
+End of
+Season {0}
+Welcome to another season of dueling! Do your best to climb the ranks for glory and finale rewards.
+Good job champion, your duelling earned you the following placement in the league:
+
+Terms of Use
+Privacy Policy
+Entitlement Failed
+
+Leaderboard
+Read More:
+
+Server Sync
+"Checking your account
+for updates."
+"Trying to reach the server.
+Are you online?"
+
+Today
+Yesterday
+{0} days ago
+Level Up!
+You get:
+You unlock:
+
+You have been banned from Blaston. Contact resolutiongames.com/support
+You are banned
+Cannot reach our servers. Try again, or contact resolutiongames.com/support
+Connection error
+There was an error while searching for an opponent. Please try again later.
+Duel error
+You are using an outdated version of Blaston, please upgrade.
+Old version
+Blaston has been updated. You must update to continue playing.
+Old version
+Microphone Access
+Blaston needs mic access to enable voice chat on Friendly Duels. We do not store any recording. It's only transmitted to others in the arena.
+Authorize
+Deny
+The direction you look orients your body so watch those bullets pass by.. or under you!
+Turning side on is key to dodging Viper bullets and Orbs.
+Orbs survive colliding each other but then they are left with a small amount of HP: throw an empty gun to destroy them.
+Rather than using weapons as they spawn, why not wait for a combo?
+Shoot through your own Defenses and Orbs to surprise your Opponent.
+Collision is Damage to Projectiles. In Blaston all Bullets have Collision and HP.
+Throw your activated Shield to clear out Bullets before they enter your space.
+When the spawned weapons reach capacity, the current weapon pauses spawning and blinks red.
+Toss your empty weapons at Bullets to destroy them.
+Care about your position on the Podium, aggressive at the front, defensive at the back.
+Remember in dodging that your sides are much thinner than your front.
+Dash through Ion Beams to escape a trap: better to lose some HP than lose the Round.
+When it's down to 1HP, finish off your opponent with a quick weapon toss!
+Opponents may have guns you haven’t unlocked yet. Don’t worry, there's no power order, they're not more powerful, just different.
+Bait grenades' auto-aim by going to your Podium's edge then quickly recenter after explosion. Safe!
+Bots difficulty increases with your league points all the way to Overlord.
+Privacy
+I hereby acknowledge that I have read through and understood Resolution Games’ Privacy Policy and Terms of Use, found at www.resolutiongames.com/privacy and www.resolutiongames.com/terms-of-use. By clicking "Accept" in this acceptance box and/or otherwise accessing and playing the Game I accept and consent to these terms and conditions.
+Accept
+Tutorial
+
+TournEvent
+Ongoing
+Ended
+Starts in
+Ends in
+Losses
+Wins
+Current tournament rankings
+Minimum rank {0}
+We know you are eager to get going, but be patient. We will soon start.
+We are done for now. Salute the winners, and be back for the next event!
+You are out of this competition,your score will still be counted in the final result. Good luck!
+This event is for tier {0} and above. Come back when you have played more duels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
