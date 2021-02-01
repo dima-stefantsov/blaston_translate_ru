@@ -1,4 +1,4 @@
-Source Text (lang=en-US)
+ENGLISH (lang=en-US)
 Duel
 Display Name
 Current Season
@@ -9,7 +9,7 @@ Ends in {0}d, {1}h and {2}m
 Cancel
 
 Victory
-Defeated
+Defeat
 You take Round {0}
 You lose Round {0}
 Waiting for opponent to join..
@@ -73,6 +73,7 @@ Music
 Effects
 Mute
 Voice
+Mic
 Haptic
 Open Menu
 Grab
@@ -116,6 +117,28 @@ Skins
 Buy
 Information
 Purchasing..
+Duel Options
+Bots while queuing
+Bots give rewards
+Training
+Make queue Bots be just for fun, no more gains or losses. Unlocks at {0}.
+Players only, bye bye Bots. Unlocks at {0}.
+Bots only, just for fun and training. Unlocks at {0}.
+Tournament
+ongoing
+ended
+starts in
+ends in
+Losses
+Wins
+Ranking
+Minimum rank {0}
+This event is for rank {0} and above.
+Join
+Fee
+Registration ongoing, hang on...
+Winnings
+We're waiting for the final Duels to end. The ranking will update when they come in.
 
 Banner
 Podium
@@ -204,6 +227,7 @@ Aranex
 Cetox
 Scrofax
 Krysox
+Hax
 
 Better think twice, Felidax is here to win!
 Canix is a gladiator with a heart of gold and the mohawk to back it up.
@@ -215,17 +239,7 @@ Brace yourself, Squillax is joining the fray.
 Look at those horns! Taurex means business.
 With an aura of awesomeness and some nasty looking tusks, Scrofax has arrived!
 Stay frosty or Krysox might bust you to bits!
-
-Duel options
-Bot rewards on/off
-Bots on/off
-Training mode
-Super easy
-Easy
-Normal
-Hard
-Super hard
-11
+"We are simply an evolution, but are we the last?" We can see Hax has entered the arena with an ulterior motive. Will you join the cause?
 
 
 
@@ -269,6 +283,7 @@ Nova Hurricane
 Hurricane
 Quicksilver
 FrostByte
+Vandal
 
 A rapid-fire, high-ammo weapon, good for keeping your opponent busy.
 Fires a veritable wall of low-damage, hard-to-dodge bullets. Great for taking down defenses.
@@ -294,6 +309,7 @@ A launcher which lobs multiple Orbs at your opponent. Devastating when used with
 A launcher which lobs multiple bullets at your opponent. Terror from above!
 Hold onto the Quicksilver to speed up your shots. Keep it in hand until its gone otherwise you'll take a hit.
 Damaging is secondary, with a skilfully placed toss to obscure the vision of your opponent you could change the outcome of every round.
+Obscure the vision of your opponent, or skillfully defend with this extremely fast weapon. Set up combos you could only ever dream of.
 
 Small
 Medium
@@ -458,25 +474,6 @@ Privacy
 I hereby acknowledge that I have read through and understood Resolution Games’ Privacy Policy and Terms of Use, found at www.resolutiongames.com/privacy and www.resolutiongames.com/terms-of-use. By clicking "Accept" in this acceptance box and/or otherwise accessing and playing the Game I accept and consent to these terms and conditions.
 Accept
 Tutorial
-
-TournEvent
-Ongoing
-Ended
-Starts in
-Ends in
-Losses
-Wins
-Current tournament rankings
-Minimum rank {0}
-We know you are eager to get going, but be patient. We will soon start.
-We are done for now. Salute the winners, and be back for the next event!
-You are out of this competition,your score will still be counted in the final result. Good luck!
-This event is for tier {0} and above. Come back when you have played more duels.
-
-
-
-
-
 
 
 
