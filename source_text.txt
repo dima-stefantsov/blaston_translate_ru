@@ -12,10 +12,10 @@ Victory
 Defeat
 You take Round {0}
 You lose Round {0}
-Waiting for opponent to join..
+Waiting for opponent to join...
 Waiting for your opponent to join
 Challenger Incoming!
-Looking for opponent..
+Looking for opponent...
 Blaston!
 Round:
 Start Round
@@ -40,7 +40,7 @@ Your League
 Rank:
 Error
 Pausing, leaving the guardian or pressing the power button forfeits the round
-Something went wrong..
+Something went wrong...
 Claim Reward!
 Max
 Account
@@ -65,6 +65,7 @@ Enter email address
 Misc
 Edit Loadout
 Equip
+Unlock
 Select which to replace
 s
 Language
@@ -116,14 +117,15 @@ Blasts & Creds
 Skins
 Buy
 Information
-Purchasing..
+Purchasing...
+Description
 Duel Options
 Bots while queuing
 Bots give rewards
 Training
-Make queue Bots be just for fun, no more gains or losses. Unlocks at {0}.
-Players only, bye bye Bots. Unlocks at {0}.
-Bots only, just for fun and training. Unlocks at {0}.
+Enable LP gain and loss from bot matches. Unlocked at rank {0}.
+Play against bots while waiting for other players. Unlocked at {0}.
+Train against bots. This mode does not allow rewards. Unlocked at rank {0}.
 Tournament
 ongoing
 ended
@@ -166,6 +168,7 @@ Sounding Off
 Shooting Star
 Scrofax Arrival
 Krysogenic
+Menacing Grin
 
 Make no mistake, this one's dangerous.
 Are you a Canix fan? You deserve a banner!
@@ -184,15 +187,15 @@ You got your hands on the big guns, huh?
 Death never looked so adorable.
 Time to rip into the competition.
 The pattern for the ponytail ninja.
-The pattern for the valiant knight
+The pattern for the valiant knight.
 A love hate relationship.
 Blue sky, green sea.
 Make a wish.
 Many horns make light work.
 Time to make some snow angels.
+"I don't humor him. Just crush him record time every single time." Wudi, 21/01/29
 
 New Blood
-Punk Metal
 Rough Wood
 Polished Wood
 Pro Sport
@@ -203,9 +206,9 @@ Tech Sport
 Robotic Love
 Hog Strong
 Cold Embrace
+Win Grin
 
 Basic metal podium.
-Just your average everyday punk inspired podium.
 Channel that warrior spirit with this Sumo inspired look.
 Feel like a pro with this shiny and polished Podium.
 Win the game with the new anti-slip technology!
@@ -215,7 +218,8 @@ A menacing look to intimidate your foes.
 Cutting edge technology.
 Display your mechanized devotion.
 Mess with the hog, you get the horns.
-Cryogenic enhancements.
+"Plastic will never prevail, the ice will take over." Sparky, 21/02/06
+Hax sawtooth!
 
 Taurex
 Squillax
@@ -239,7 +243,11 @@ Brace yourself, Squillax is joining the fray.
 Look at those horns! Taurex means business.
 With an aura of awesomeness and some nasty looking tusks, Scrofax has arrived!
 Stay frosty or Krysox might bust you to bits!
-"We are simply an evolution, but are we the last?" We can see Hax has entered the arena with an ulterior motive. Will you join the cause?
+We can see Hax has entered the arena with an ulterior motive. Will you join the cause?
+You've got latency (high ping) which will impair your dueling.
+Your network ping is high. You are not allowed to enter a Tournament until you improve your network connectivity.
+
+
 
 
 
@@ -284,6 +292,7 @@ Hurricane
 Quicksilver
 FrostByte
 Vandal
+Nova Helix
 
 A rapid-fire, high-ammo weapon, good for keeping your opponent busy.
 Fires a veritable wall of low-damage, hard-to-dodge bullets. Great for taking down defenses.
@@ -310,6 +319,15 @@ A launcher which lobs multiple bullets at your opponent. Terror from above!
 Hold onto the Quicksilver to speed up your shots. Keep it in hand until its gone otherwise you'll take a hit.
 Damaging is secondary, with a skilfully placed toss to obscure the vision of your opponent you could change the outcome of every round.
 Obscure the vision of your opponent, or skillfully defend with this extremely fast weapon. Set up combos you could only ever dream of.
+Wring the opponent's mind then watch them fail to dodge through the Helix' center. Or bring a follow-up shot.
+
+Pink Typhoon
+Candy Splash
+Hot Metal
+Crushing the opponents doesn't have to be all doom & gloom. Here's something to cheer them up.
+Still feeling that holiday vibe? Spread the joy. And Bullets.
+There's nothing humble about being #1. Smoke 'em.
+
 
 Small
 Medium
@@ -353,6 +371,7 @@ Ammo
 Fuse
 Range
 Boost
+Charge
 
 Welcome
 Welcome to Blaston!\nReady to start the Tutorial?
@@ -440,7 +459,9 @@ Level Up!
 You get:
 You unlock:
 
-You have been banned from Blaston. Contact resolutiongames.com/support
+"You have been banned from Blaston. Contact resolutiongames.com/support
+
+{0}"
 You are banned
 Cannot reach our servers. Try again, or contact resolutiongames.com/support
 Connection error
@@ -471,7 +492,7 @@ Opponents may have guns you haven’t unlocked yet. Don’t worry, there's no po
 Bait grenades' auto-aim by going to your Podium's edge then quickly recenter after explosion. Safe!
 Bots difficulty increases with your league points all the way to Overlord.
 Privacy
-I hereby acknowledge that I have read through and understood Resolution Games’ Privacy Policy and Terms of Use, found at www.resolutiongames.com/privacy and www.resolutiongames.com/terms-of-use. By clicking "Accept" in this acceptance box and/or otherwise accessing and playing the Game I accept and consent to these terms and conditions.
+I hereby acknowledge that I have read through and understood Resolution Games’ Privacy Policy and Terms of Use, found at resolutiongames.com/privacy and resolutiongames.com/terms-of-use. By clicking "Accept" in this acceptance box and/or otherwise accessing and playing the Game I accept and consent to these terms and conditions.
 Accept
 Tutorial
 

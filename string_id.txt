@@ -65,6 +65,7 @@ menu/settings/report/toggle/keyboardDescriptionEmail
 menu/settings/misc
 menu/toolselect/title
 menu/toolselect/startswap
+menu/toolselect/unlock
 menu/toolselect/replacetool
 menu/toolselect/seconds
 menu/audio/language
@@ -73,6 +74,7 @@ menu/audio/music
 menu/audio/effect
 menu/audio/mute
 menu/audio/voice
+menu/audio/Mic
 menu/controller/haptic
 menu/controller/openmenu
 menu/controller/grabtools
@@ -115,6 +117,29 @@ menu/customisation/skins_tab
 menu/customisation/buy_icon
 menu/customisation/iteminfo_header
 menu/customisation/purchase_verify
+menu/customisation/description
+menu/duelsettings/caption
+menu/duelsettings/botstoggle
+menu/duelsettings/botrewards
+menu/duelsettings/trainingtoggle
+menu/duelsettings/HintBotRewards
+menu/duelsettings/HintBotsToggle
+menu/duelsettings/HintTrainingToggle
+menu/tournamentevent/caption
+menu/tournamentevent/ongoing
+menu/tournamentevent/ended
+menu/tournamentevent/startsin
+menu/tournamentevent/endsin
+menu/tournamentevent/losses
+menu/tournamentevent/wins
+menu/tournamentevent/leaderboardcaption
+menu/tournamentevent/criterion
+menu/tournamentevent/infotolowleaguetier
+menu/tournamentevent/payfee
+menu/tournamentevent/entryfeecaption
+menu/tournamentevent/payingfeeinfotext
+menu/tournamentevent/winningscaption
+menu/tournamentevent/infoending
 
 menu/customisation/items/HeaderBanner
 menu/customisation/items/HeaderPlatform
@@ -142,6 +167,7 @@ menu/customisation/items/banner_AraneaxPattern
 menu/customisation/items/banner_DracxPattern
 menu/customisation/items/banner_Scrofax
 menu/customisation/items/banner_Krysogenic
+menu/customisation/items/banner_Hax
 
 menu/customisation/itemdescription/banner_Araneax
 menu/customisation/itemdescription/banner_Canix
@@ -166,9 +192,9 @@ menu/customisation/itemdescription/banner_AraneaxPattern
 menu/customisation/itemdescription/banner_DracxPattern
 menu/customisation/itemdescription/banner_Scrofax
 menu/customisation/itemdescription/banner_Krysogenic
+menu/customisation/itemdescription/banner_Hax
 
 menu/customisation/items/platform_default
-menu/customisation/items/platform_metal
 menu/customisation/items/platform_wooden
 menu/customisation/items/platform_woodplain
 menu/customisation/items/platform_sporty
@@ -179,9 +205,9 @@ menu/customisation/items/platform_YellowAbstract
 menu/customisation/items/platform_CetoxHeart
 menu/customisation/items/platform_Scrofax
 menu/customisation/items/platform_Krysox
+menu/customisation/items/platform_Hax
 
 menu/customisation/itemdescription/platform_default
-menu/customisation/itemdescription/platform_metal
 menu/customisation/itemdescription/platform_wooden
 menu/customisation/itemdescription/platform_woodPlain
 menu/customisation/itemdescription/platform_sporty
@@ -192,6 +218,7 @@ menu/customisation/itemdescription/platform_YellowAbstract
 menu/customisation/itemdescription/platform_CetoxHeart
 menu/customisation/itemdescription/platform_Scrofax
 menu/customisation/itemdescription/platform_Krysox
+menu/customisation/itemdescription/platform_Hax
 
 menu/characterselect/skin_taurex
 menu/characterselect/skin_squillax
@@ -203,6 +230,7 @@ menu/characterselect/skin_aranex
 menu/characterselect/skin_cetox
 menu/characterselect/skin_scrofax
 menu/characterselect/skin_krysox
+menu/characterselect/skin_hax
 
 menu/characterselect/description_felidax
 menu/characterselect/description_canix
@@ -214,17 +242,11 @@ menu/characterselect/description_squillax
 menu/characterselect/description_taurex
 menu/characterselect/description_scrofax
 menu/characterselect/description_krysox
+menu/characterselect/description_hax
+menu/network/highpingmessage
+menu/tournamentevent/highpingmessage
 
-menu/duelsettings/caption
-menu/duelsettings/botrewards
-menu/duelsettings/botstoggle
-menu/duelsettings/trainingtoggle
-menu/duelsettings/difficulty_0
-menu/duelsettings/difficulty_1
-menu/duelsettings/difficulty_2
-menu/duelsettings/difficulty_3
-menu/duelsettings/difficulty_4
-menu/duelsettings/difficulty_5
+
 
 
 
@@ -268,6 +290,8 @@ tool/launcherorbus
 tool/launcherlobber
 tool/tether
 tool/frostbyte
+tool/vandal
+tool/novahelix
 
 toolinfo/smg
 toolinfo/shotgun
@@ -293,6 +317,16 @@ toolinfo/launcherorbus
 toolinfo/launcherlobber
 toolinfo/tether
 toolinfo/frostbyte
+toolinfo/vandal
+toolinfo/novahelix
+
+toolskinpack/swirls
+toolskinpack/candycane
+toolskinpack/flames
+toolskinpackinfo/swirls
+toolskinpackinfo/candycane
+toolskinpackinfo/flames
+
 
 toolsize/small
 toolsize/medium
@@ -336,6 +370,7 @@ menu/toolInformation/RoundsInTool
 menu/toolInformation/Fuse
 menu/toolInformation/TetherDistBeforeBreak
 menu/toolInformation/TetherSpeedBoost
+menu/toolInformation/SpawnCost
 
 onboarding/welcome/header
 onboarding/welcome/mainText
@@ -455,25 +490,6 @@ splash/gdpr/header
 splash/gdpr/description
 splash/gdpr/accept
 menu/start_onboarding
-
-menu/tournamentevent/caption
-menu/tournamentevent/ongoing
-menu/tournamentevent/ended
-menu/tournamentevent/startsin
-menu/tournamentevent/endsin
-menu/tournamentevent/losses
-menu/tournamentevent/wins
-menu/tournamentevent/leaderboardcaption
-menu/tournamentevent/criterion
-menu/tournamentevent/infobeforestart
-menu/tournamentevent/infoafterend
-menu/tournamentevent/infoplayerout
-menu/tournamentevent/infotolowleaguetier
-
-
-
-
-
 
 
 
