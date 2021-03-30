@@ -116,7 +116,6 @@ Creds
 Blasts & Creds
 Skins
 Buy
-Information
 Purchasing...
 Description
 You have a transaction pending in the Steam overlay...
