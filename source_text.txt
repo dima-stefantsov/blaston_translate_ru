@@ -7,13 +7,12 @@ Ends in {0}d, {1}h and {2}m
 {0}d, {1}h, {2}m
 {0}h, {1}m, {2}s
 Cancel
-
 Victory
 Defeat
 You take Round {0}
 You lose Round {0}
 Waiting for opponent to join...
-Waiting for your opponent to join
+Waiting for opponent to join
 Challenger Incoming!
 Looking for opponent...
 Blaston!
@@ -26,7 +25,6 @@ Do you want to forfeit the duel?
 You can't forfeit a ranked duel.
 Quit Game?
 Do you want to quit the game?
-
 Home
 Ranking
 Loadout
@@ -34,7 +32,6 @@ Shop
 News
 Settings
 Ok
-
 Time out in:
 Your League
 Rank:
@@ -75,6 +72,7 @@ Effects
 Mute
 Voice
 Mic
+Show Avatar
 Haptic
 Open Menu
 Grab
@@ -111,6 +109,8 @@ Owned
 Your Loadout
 Equipped
 Locked
+Leagues
+Unlocked at level {0}
 Blasts
 Creds
 Blasts & Creds
@@ -119,13 +119,14 @@ Buy
 Information
 Purchasing...
 Description
+You have a transaction pending in the Steam overlay...
 Duel Options
 Bots while queuing
 Bots give rewards
 Training
-Enable LP gain and loss from bot matches. Unlocked at rank {0}.
-Play against bots while waiting for other players. Unlocked at {0}.
-Train against bots. This mode does not allow rewards. Unlocked at rank {0}.
+Enable rewards from Bot Duels or set them as just for fun! Unlocked at rank {0}.
+Play against Bots while waiting for other players. Unlocked at {0}.
+Train against Bots. This mode does not allow rewards. Unlocked at rank {0}.
 Tournament
 ongoing
 ended
@@ -220,7 +221,6 @@ Display your mechanized devotion.
 Mess with the hog, you get the horns.
 "Plastic will never prevail, the ice will take over." Sparky, 21/02/06
 Hax sawtooth!
-
 Taurex
 Squillax
 Felidax
@@ -232,7 +232,6 @@ Cetox
 Scrofax
 Krysox
 Hax
-
 Better think twice, Felidax is here to win!
 Canix is a gladiator with a heart of gold and the mohawk to back it up.
 Many duelers have fallen before the menace that is Lyxx.
@@ -245,12 +244,9 @@ With an aura of awesomeness and some nasty looking tusks, Scrofax has arrived!
 Stay frosty or Krysox might bust you to bits!
 We can see Hax has entered the arena with an ulterior motive. Will you join the cause?
 You've got latency (high ping) which will impair your dueling.
-Your network ping is high. You are not allowed to enter a Tournament until you improve your network connectivity.
-
-
-
-
-
+Your network ping is high. You are not allowed to enter a Tournament until you improve your latency.
+Your latency is high. Finding you an opponent will take longer.
+Your latency is very high. It will be almost impossible to find you an opponent.
 Bronze
 Silver
 Gold
@@ -262,9 +258,6 @@ Grandmaster
 Elite
 Legendary
 Overlord
-LEAGUES
-
-Unlocked at level {0}
 Wildcat
 Hammer
 Viper
@@ -293,7 +286,7 @@ Quicksilver
 FrostByte
 Vandal
 Nova Helix
-
+Vector
 A rapid-fire, high-ammo weapon, good for keeping your opponent busy.
 Fires a veritable wall of low-damage, hard-to-dodge bullets. Great for taking down defenses.
 A powerful and accurate weapon. Low ammo and rate of fire, so better make each shot count!
@@ -319,15 +312,18 @@ A launcher which lobs multiple bullets at your opponent. Terror from above!
 Hold onto the Quicksilver to speed up your shots. Keep it in hand until its gone otherwise you'll take a hit.
 Damaging is secondary, with a skilfully placed toss to obscure the vision of your opponent you could change the outcome of every round.
 Obscure the vision of your opponent, or skillfully defend with this extremely fast weapon. Set up combos you could only ever dream of.
-Wring the opponent's mind then watch them fail to dodge through the Helix' center. Or bring a follow-up shot.
-
+Very fragile spinning Orbs: almost any Collision will destroy them. But their devious motion will take the opponent's attention, use that!
+Bullets bounce on surfaces. The trick is now to remember that other guns don't.
 Pink Typhoon
 Candy Splash
 Hot Metal
+Dot Com
+Neon Clew
 Crushing the opponents doesn't have to be all doom & gloom. Here's something to cheer them up.
 Still feeling that holiday vibe? Spread the joy. And Bullets.
 There's nothing humble about being #1. Smoke 'em.
-
+Blast your way into the future, this pack is not just a fad.
+Your opponent won't have a clew what hit them!
 
 Small
 Medium
@@ -372,7 +368,6 @@ Fuse
 Range
 Boost
 Charge
-
 Welcome
 Welcome to Blaston!\nReady to start the Tutorial?
 Start
@@ -495,58 +490,44 @@ Privacy
 I hereby acknowledge that I have read through and understood Resolution Games’ Privacy Policy and Terms of Use, found at resolutiongames.com/privacy and resolutiongames.com/terms-of-use. By clicking "Accept" in this acceptance box and/or otherwise accessing and playing the Game I accept and consent to these terms and conditions.
 Accept
 Tutorial
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Season Challenge completed
+Season Challenge
+Missions
+{0}d {1}h
+{0}h {1}m
+Clear {0} Missions this Season and receive:
+You completed the Season Challenge and claimed your rewards.
+Season closed
+Claim Rewards
+Premium Rewards
+Add these items to the Season Challenge rewards
+You are fully prepared for the season
+Premium rewards will not be refunded if you fail the Season Challenge.
+After a Season, the Premium rewards may come to the shop but at a higher price and for a short while only.
+More missions available
+New Mission in {0}d {1}h
+New Mission in {0}h {1}m
+Deal {0} Damage
+Play {0} Duels
+Win {0} Duels
+Start {0} Duels from Ozo using a fist bump
+Deal {0} Damage with the {1}
+Win {0} Duels in a row
+Win {0} Rounds with more than {1} HP remaining
+"Earn {0} Creds
+"
+Win {0} Duels with {1} in your Loadout
+Gain {0} League points <sprite name="leaguetierbase">
+Win {0} Duels in the third Round
+Win {0} Rounds where you deal Damage from {1} different weapons
+Win {0} Duels where the opponent has more League points <sprite name="leaguetierbase">
+Watch {0} Replays
+Win {0} Rounds with full HP
+Grab {1} {0} times
+Win {0} Rounds with less than {1} HP remaining
+Deal {0} Throw Damage
+Deal {0} Collision to your opponents' projectiles
+Win {0} Rounds where you hit with the {1}
 
 
 
